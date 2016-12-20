@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"solu",
+				"solutionArr\tstatement"
+			],
+			[
+				"cs",
+				"close"
+			],
+			[
+				"read",
+				"read_data\tstatement"
+			],
+			[
 				"mascu",
 				"masculinData"
 			],
@@ -43,6 +55,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "data-cleaning-assignments/w1-regex/GraderFiles/regexGrader.py",
+			"settings":
+			{
+				"buffer_size": 1290,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -90,8 +111,32 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-autograder",
+		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-autograder/data-cleaning-assignments",
+		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-autograder/data-cleaning-assignments/w1-regex",
+		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-autograder/data-cleaning-assignments/w1-regex/GraderFiles",
+		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-autograder/data-cleaning-assignments/w1-regex/GraderFiles/01_email",
+		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-autograder/data-cleaning-assignments/w1-regex/GraderFiles/02_phone",
+		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-autograder/data-cleaning-assignments/w1-regex/GraderFiles/03_url",
+		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-autograder/programming-assignments-demo",
+		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-autograder/programming-assignments-demo/built-in-graders",
+		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-autograder/programming-assignments-demo/custom-graders",
+		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-autograder/programming-assignments-demo/custom-graders/DemoAssignmentGrader",
+		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-autograder/programming-assignments-demo/custom-graders/DemoAssignmentGrader/GraderFiles",
+		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-autograder/programming-assignments-demo/custom-graders/DemoAssignmentGrader/GraderFiles/PrimeGrader"
+	],
 	"file_history":
 	[
+		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-autograder/data-cleaning-assignments/w1-regex/GraderFiles/regexGrader.py",
+		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-autograder/programming-assignments-demo/custom-graders/DemoAssignmentGrader/SampleSubmission/FactoringSampleSubmission/Factoring.java",
+		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-autograder/programming-assignments-demo/custom-graders/DemoAssignmentGrader/GraderFiles/Dockerfile",
+		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-autograder/programming-assignments-demo/custom-graders/DemoAssignmentGrader/GraderFiles/executeGrader.sh",
+		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-autograder/data-cleaning-assignments/w1-regex/untitled",
+		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-autograder/data-cleaning-assignments/w1-regex/GraderFiles/Dockerfile",
+		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-autograder/data-cleaning-assignments/w1-regex/GraderFiles/executeGrader.sh",
+		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-autograder/data-cleaning-assignments/w1-regex/GraderFiles/RegexGrader/testCases.txt",
 		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-keywords-gender-viz/backend/config/policies.js",
 		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-keywords-gender-viz/frontend/src/app/examples/genderviz/graph-models.js",
 		"/Volumes/HD-500GB/Users/nikolausn/Documents/msimsvn/msimrepo/lab-keywords-gender-viz/frontend/src/app/examples/genderviz/graph.html",
@@ -173,7 +218,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -195,6 +240,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"could not",
+			"shared",
 			"\n                                ",
 			"vendors",
 			"inject",
@@ -248,8 +295,48 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "data-cleaning-assignments/w1-regex/GraderFiles/regexGrader.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
